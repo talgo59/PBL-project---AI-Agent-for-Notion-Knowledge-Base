@@ -1,5 +1,6 @@
-AI Agent for Notion Knowledge Base\n
-This repository contains the code for an AI Agent designed to answer user queries by leveraging a Notion knowledge base and dynamic web scraping. The agent is built using the LangChain framework and the Google Gemini Flash model to orchestrate a series of specialized tools.\n
+AI Agent for Notion Knowledge Base
+
+This repository contains the code for an AI Agent designed to answer user queries by leveraging a Notion knowledge base and dynamic web scraping. The agent is built using the LangChain framework and the Google Gemini Flash model to orchestrate a series of specialized tools.
 
 The project consists of a simple Flask web application that provides a user interface to interact with the agent.
 
